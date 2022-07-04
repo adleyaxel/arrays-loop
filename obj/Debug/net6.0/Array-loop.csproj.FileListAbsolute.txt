@@ -1,0 +1,15 @@
+C:\Users\adley\U.creativa-programacion\Array-loop\bin\Debug\net6.0\Array-loop.exe
+C:\Users\adley\U.creativa-programacion\Array-loop\bin\Debug\net6.0\Array-loop.deps.json
+C:\Users\adley\U.creativa-programacion\Array-loop\bin\Debug\net6.0\Array-loop.runtimeconfig.json
+C:\Users\adley\U.creativa-programacion\Array-loop\bin\Debug\net6.0\Array-loop.dll
+C:\Users\adley\U.creativa-programacion\Array-loop\bin\Debug\net6.0\Array-loop.pdb
+C:\Users\adley\U.creativa-programacion\Array-loop\obj\Debug\net6.0\Array-loop.csproj.AssemblyReference.cache
+C:\Users\adley\U.creativa-programacion\Array-loop\obj\Debug\net6.0\Array-loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adley\U.creativa-programacion\Array-loop\obj\Debug\net6.0\Array-loop.AssemblyInfoInputs.cache
+C:\Users\adley\U.creativa-programacion\Array-loop\obj\Debug\net6.0\Array-loop.AssemblyInfo.cs
+C:\Users\adley\U.creativa-programacion\Array-loop\obj\Debug\net6.0\Array-loop.csproj.CoreCompileInputs.cache
+C:\Users\adley\U.creativa-programacion\Array-loop\obj\Debug\net6.0\Array-loop.dll
+C:\Users\adley\U.creativa-programacion\Array-loop\obj\Debug\net6.0\refint\Array-loop.dll
+C:\Users\adley\U.creativa-programacion\Array-loop\obj\Debug\net6.0\Array-loop.pdb
+C:\Users\adley\U.creativa-programacion\Array-loop\obj\Debug\net6.0\Array-loop.genruntimeconfig.cache
+C:\Users\adley\U.creativa-programacion\Array-loop\obj\Debug\net6.0\ref\Array-loop.dll
